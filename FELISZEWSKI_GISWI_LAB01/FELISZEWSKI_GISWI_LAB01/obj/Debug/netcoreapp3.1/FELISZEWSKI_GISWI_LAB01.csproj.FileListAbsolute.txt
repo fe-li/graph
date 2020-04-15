@@ -1,0 +1,22 @@
+D:\studia\notatki\VIII semestr\Grafy i Sieci w Informatyce\grafyCS\FELISZEWSKI_GISWI_LAB01\FELISZEWSKI_GISWI_LAB01\FELISZEWSKI_GISWI_LAB01\bin\Debug\netcoreapp3.1\FELISZEWSKI_GISWI_LAB01.exe
+D:\studia\notatki\VIII semestr\Grafy i Sieci w Informatyce\grafyCS\FELISZEWSKI_GISWI_LAB01\FELISZEWSKI_GISWI_LAB01\FELISZEWSKI_GISWI_LAB01\bin\Debug\netcoreapp3.1\FELISZEWSKI_GISWI_LAB01.deps.json
+D:\studia\notatki\VIII semestr\Grafy i Sieci w Informatyce\grafyCS\FELISZEWSKI_GISWI_LAB01\FELISZEWSKI_GISWI_LAB01\FELISZEWSKI_GISWI_LAB01\bin\Debug\netcoreapp3.1\FELISZEWSKI_GISWI_LAB01.runtimeconfig.json
+D:\studia\notatki\VIII semestr\Grafy i Sieci w Informatyce\grafyCS\FELISZEWSKI_GISWI_LAB01\FELISZEWSKI_GISWI_LAB01\FELISZEWSKI_GISWI_LAB01\bin\Debug\netcoreapp3.1\FELISZEWSKI_GISWI_LAB01.runtimeconfig.dev.json
+D:\studia\notatki\VIII semestr\Grafy i Sieci w Informatyce\grafyCS\FELISZEWSKI_GISWI_LAB01\FELISZEWSKI_GISWI_LAB01\FELISZEWSKI_GISWI_LAB01\bin\Debug\netcoreapp3.1\FELISZEWSKI_GISWI_LAB01.dll
+D:\studia\notatki\VIII semestr\Grafy i Sieci w Informatyce\grafyCS\FELISZEWSKI_GISWI_LAB01\FELISZEWSKI_GISWI_LAB01\FELISZEWSKI_GISWI_LAB01\bin\Debug\netcoreapp3.1\FELISZEWSKI_GISWI_LAB01.pdb
+D:\studia\notatki\VIII semestr\Grafy i Sieci w Informatyce\grafyCS\FELISZEWSKI_GISWI_LAB01\FELISZEWSKI_GISWI_LAB01\FELISZEWSKI_GISWI_LAB01\obj\Debug\netcoreapp3.1\FELISZEWSKI_GISWI_LAB01.csprojAssemblyReference.cache
+D:\studia\notatki\VIII semestr\Grafy i Sieci w Informatyce\grafyCS\FELISZEWSKI_GISWI_LAB01\FELISZEWSKI_GISWI_LAB01\FELISZEWSKI_GISWI_LAB01\obj\Debug\netcoreapp3.1\FELISZEWSKI_GISWI_LAB01.AssemblyInfoInputs.cache
+D:\studia\notatki\VIII semestr\Grafy i Sieci w Informatyce\grafyCS\FELISZEWSKI_GISWI_LAB01\FELISZEWSKI_GISWI_LAB01\FELISZEWSKI_GISWI_LAB01\obj\Debug\netcoreapp3.1\FELISZEWSKI_GISWI_LAB01.AssemblyInfo.cs
+D:\studia\notatki\VIII semestr\Grafy i Sieci w Informatyce\grafyCS\FELISZEWSKI_GISWI_LAB01\FELISZEWSKI_GISWI_LAB01\FELISZEWSKI_GISWI_LAB01\obj\Debug\netcoreapp3.1\FELISZEWSKI_GISWI_LAB01.dll
+D:\studia\notatki\VIII semestr\Grafy i Sieci w Informatyce\grafyCS\FELISZEWSKI_GISWI_LAB01\FELISZEWSKI_GISWI_LAB01\FELISZEWSKI_GISWI_LAB01\obj\Debug\netcoreapp3.1\FELISZEWSKI_GISWI_LAB01.pdb
+D:\studia\notatki\github\GISIW\graph\FELISZEWSKI_GISWI_LAB01\FELISZEWSKI_GISWI_LAB01\bin\Debug\netcoreapp3.1\FELISZEWSKI_GISWI_LAB01.exe
+D:\studia\notatki\github\GISIW\graph\FELISZEWSKI_GISWI_LAB01\FELISZEWSKI_GISWI_LAB01\bin\Debug\netcoreapp3.1\FELISZEWSKI_GISWI_LAB01.deps.json
+D:\studia\notatki\github\GISIW\graph\FELISZEWSKI_GISWI_LAB01\FELISZEWSKI_GISWI_LAB01\bin\Debug\netcoreapp3.1\FELISZEWSKI_GISWI_LAB01.runtimeconfig.json
+D:\studia\notatki\github\GISIW\graph\FELISZEWSKI_GISWI_LAB01\FELISZEWSKI_GISWI_LAB01\bin\Debug\netcoreapp3.1\FELISZEWSKI_GISWI_LAB01.runtimeconfig.dev.json
+D:\studia\notatki\github\GISIW\graph\FELISZEWSKI_GISWI_LAB01\FELISZEWSKI_GISWI_LAB01\bin\Debug\netcoreapp3.1\FELISZEWSKI_GISWI_LAB01.dll
+D:\studia\notatki\github\GISIW\graph\FELISZEWSKI_GISWI_LAB01\FELISZEWSKI_GISWI_LAB01\bin\Debug\netcoreapp3.1\FELISZEWSKI_GISWI_LAB01.pdb
+D:\studia\notatki\github\GISIW\graph\FELISZEWSKI_GISWI_LAB01\FELISZEWSKI_GISWI_LAB01\obj\Debug\netcoreapp3.1\FELISZEWSKI_GISWI_LAB01.csprojAssemblyReference.cache
+D:\studia\notatki\github\GISIW\graph\FELISZEWSKI_GISWI_LAB01\FELISZEWSKI_GISWI_LAB01\obj\Debug\netcoreapp3.1\FELISZEWSKI_GISWI_LAB01.AssemblyInfoInputs.cache
+D:\studia\notatki\github\GISIW\graph\FELISZEWSKI_GISWI_LAB01\FELISZEWSKI_GISWI_LAB01\obj\Debug\netcoreapp3.1\FELISZEWSKI_GISWI_LAB01.AssemblyInfo.cs
+D:\studia\notatki\github\GISIW\graph\FELISZEWSKI_GISWI_LAB01\FELISZEWSKI_GISWI_LAB01\obj\Debug\netcoreapp3.1\FELISZEWSKI_GISWI_LAB01.dll
+D:\studia\notatki\github\GISIW\graph\FELISZEWSKI_GISWI_LAB01\FELISZEWSKI_GISWI_LAB01\obj\Debug\netcoreapp3.1\FELISZEWSKI_GISWI_LAB01.pdb

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "FELISZEWSKI_GISWI_LAB01/1.0.0": {
+        "runtime": {
+          "FELISZEWSKI_GISWI_LAB01.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FELISZEWSKI_GISWI_LAB01/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
